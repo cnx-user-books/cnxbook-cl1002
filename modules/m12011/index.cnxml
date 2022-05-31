@@ -1,0 +1,13 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Test One</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>346b80c0-2187-4422-885d-8c5f6ce5303e</md:uuid>
+</metadata>
+
+  <content>
+    <para id="delete_me">
+       <!-- Insert module text here -->
+    Testing new module...
+    </para>   
+  </content>
+  
+</document>
