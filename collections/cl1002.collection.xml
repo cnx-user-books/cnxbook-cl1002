@@ -1,3 +1,66 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col10466</md:content-id>  <md:title>CL1002</md:title>      <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License 2.0</md:license>  <md:language>en</md:language>              <md:uuid>1771f5df-a9d4-43b0-aeac-bce5f34bfca7</md:uuid>
-<md:slug>cl1002</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>Chapter 1</md:title>                                <col:content>                                  <col:subcollection>        <md:title>Sub topic 1.1</md:title>                                <col:content>                                  <col:subcollection>        <md:title>sub titile 1.1.1</md:title>                                <col:content>                    <col:module document="m12011"/>                            <col:module document="m13585"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Sub title 1.1.2</md:title>                                <col:content>                    <col:module document="m15201"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Sub title 1.1.3</md:title>                                <col:content>                  </col:content>      </col:subcollection>            </col:content>      </col:subcollection>            </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Chapter 2</md:title>                                <col:content>                                  <col:subcollection>        <md:title>Sub topic 1.2</md:title>                                <col:content>                                  <col:subcollection>        <md:title>sub title 1.2.1</md:title>                                <col:content>                  </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>sub title 1.2.2</md:title>                                <col:content>                  </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Sub title 1.2.3</md:title>                                <col:content>                  </col:content>      </col:subcollection>            </col:content>      </col:subcollection>            </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Chapter 3</md:title>                                <col:content>                  </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Joanne Ann">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10466</md:content-id>
+    <md:title>CL1002</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License 2.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>1771f5df-a9d4-43b0-aeac-bce5f34bfca7</md:uuid>
+    <md:slug>cl1002</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Chapter 1</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Sub topic 1.1</md:title>
+          <col:content>
+            <col:subcollection>
+              <md:title>sub titile 1.1.1</md:title>
+              <col:content>
+                <col:module document="m12011"/>
+                <col:module document="m13585"/>
+              </col:content>
+            </col:subcollection>
+            <col:subcollection>
+              <md:title>Sub title 1.1.2</md:title>
+              <col:content>
+                <col:module document="m15201"/>
+              </col:content>
+            </col:subcollection>
+            <col:subcollection>
+              <md:title>Sub title 1.1.3</md:title>
+              <col:content>                  </col:content>
+            </col:subcollection>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Chapter 2</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Sub topic 1.2</md:title>
+          <col:content>
+            <col:subcollection>
+              <md:title>sub title 1.2.1</md:title>
+              <col:content>                  </col:content>
+            </col:subcollection>
+            <col:subcollection>
+              <md:title>sub title 1.2.2</md:title>
+              <col:content>                  </col:content>
+            </col:subcollection>
+            <col:subcollection>
+              <md:title>Sub title 1.2.3</md:title>
+              <col:content>                  </col:content>
+            </col:subcollection>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Chapter 3</md:title>
+      <col:content>                  </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
